@@ -22,7 +22,7 @@ header nav ul li {
     overflow: hidden;
     font-size: x-large;
     padding: 2%;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin: 0px;
    
 }
@@ -81,7 +81,7 @@ main h2 {
 }
 
 main p {
-    font-size: 1.9rem;
+    font-size: 1.5rem;
     line-height: 1.3;
     padding-bottom: 50px;
     display: flex;
@@ -155,6 +155,7 @@ section img {
     max-width: 100%;
     object-fit: cover;
     overflow: hidden;
+    margin: 0px;
 
 }
 
