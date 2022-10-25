@@ -7,7 +7,8 @@
 
 header {
     position: relative;
-
+    align-items: center;
+    justify-content: center;
 }
 
 header nav {
@@ -18,11 +19,9 @@ header nav {
 
 header nav ul li {
     display: inline-block;
-    position: relative;
     overflow: hidden;
-    font-size: x-large;
     padding: 2%;
-    font-size: 1rem;
+    font-size: .75rem;
     margin: 0px;
    
 }
